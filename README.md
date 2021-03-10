@@ -1,4 +1,7 @@
-### Hi there 👋
+# Bem Vindo ao Meu GitHub ✔️ 
+
+## 👨‍💻 Sobre mim: 
+
 
 <!--
 **HenriqueCardoso-Dev/HenriqueCardoso-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+
+<!--
+  estatisticas:
+  ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=HenriqueCardoso-Dev)
 -->
