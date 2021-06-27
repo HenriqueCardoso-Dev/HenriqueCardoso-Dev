@@ -7,7 +7,7 @@
 
 - 🔭 &nbsp; Atualmente, estou aprendendo o desenvolvimento de aplicativos em React Native e Ionic.
 - 🤔 &nbsp; Buscando sempre novos conhecimentos e traçando maneiras de solucionar problemas.
-- 🎓 &nbsp; Cursando Técnico em Análise em Desenvolvimento de Sistemas.
+- 🎓 &nbsp; Formado em Técnico em Análise em Desenvolvimento de Sistemas.
 - 💼 &nbsp; Desenvolvedor mobile, desenvolvedor web.
 - 🌱 &nbsp; Entusiasta de Tecnologia em geral.
 
