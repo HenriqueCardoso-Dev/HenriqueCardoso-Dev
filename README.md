@@ -17,7 +17,7 @@
 - 💻 &nbsp; Java (básico)  
 - 📱 &nbsp; Ionic (angular) | React Native (básico)
 - 🛢 &nbsp; MySQL | PostgreSQL (básico) | Xampp
-- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | PHP(CRUD) | Bulma | Bootstrap | SASS
+- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | PHP(CRUD) | Bulma | Bootstrap | SASS | Vue | Laravel
 - 🔧 &nbsp; Linux Mint | Git e GitHub | Visual Studio Code | MySQL Workbench | pgAdmin 4 | phpMyAdmin | Insomnia
 - 🖥 &nbsp; Photoshop | Vegas | Canva | Figma
 
