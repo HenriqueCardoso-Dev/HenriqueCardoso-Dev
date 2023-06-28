@@ -5,7 +5,7 @@
 
 <h3>💻 Sobre mim: </h3>
 
-- 🔭 &nbsp; Atualmente, estou aprendendo o desenvolvimento de aplicativos em React Native e Ionic.
+- 🔭 &nbsp; Atualmente, estou trabalhando como desenvolvedor Front-End com React/Next.js.
 - 🤔 &nbsp; Buscando sempre novos conhecimentos e traçando maneiras de solucionar problemas.
 - 🎓 &nbsp; Formado em Técnico em Análise em Desenvolvimento de Sistemas.
 - 💼 &nbsp; Desenvolvedor Front-End.
