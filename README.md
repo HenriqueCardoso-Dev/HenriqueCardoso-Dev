@@ -16,10 +16,10 @@
 
 - 💻 &nbsp; Java (básico)  
 - 📱 &nbsp; Ionic (angular) | React Native (básico)
-- 🛢 &nbsp; MySQL | Mongo | SQLite
-- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | PHP | React | Lumen | SASS | Vue | Laravel
+- 🛢 &nbsp; MySQL | Mongo | SQLite | Postgre
+- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | PHP | React | Lumen | SASS | Vue | Laravel | Next.js 
 - 🔧 &nbsp; Linux | Git e GitHub | Visual Studio Code | MySQL Workbench | Postman | phpMyAdmin | Insomnia
-- 🖥 &nbsp; Photoshop | Vegas | Canva | Figma
+- 🖥 &nbsp; Photoshop | Canva | Figma
 
 <br>
 
