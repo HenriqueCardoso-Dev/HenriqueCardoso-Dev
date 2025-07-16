@@ -5,21 +5,19 @@
 
 <h3>💻 Sobre mim: </h3>
 
-- 🔭 &nbsp; Atualmente, estou trabalhando como desenvolvedor Front-End com React/Next.js.
-- 🤔 &nbsp; Buscando sempre novos conhecimentos e traçando maneiras de solucionar problemas.
-- 🎓 &nbsp; Formado em Técnico em Análise em Desenvolvimento de Sistemas.
+- 🔭 &nbsp; Atualmente, estou buscando uma nova opotunidade para voltar a atuar como desenvolvedor Front-End com React/Next.js.
+- 🤔 &nbsp; Buscando sempre novos conhecimentos e buscando evoluir cada vez mais.
+- 🎓 &nbsp; Formado em Técnico em Análise em Desenvolvimento de Sistemas pela ETEC de Itaquaquecetuba em 2021.
 - 💼 &nbsp; Desenvolvedor Front-End.
-- 🌱 &nbsp; Entusiasta de Tecnologia em geral.
+- 🌱 &nbsp; Entusiasta e amante da Tecnologia e programação.
 
 
 <h3>🛠 Tecnologias</h3>
 
-- 💻 &nbsp; Java (básico)  
 - 📱 &nbsp; Ionic (angular) | React Native (básico)
 - 🛢 &nbsp; MySQL | Mongo | SQLite | Postgre
-- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | PHP | React | Lumen | SASS | Vue | Laravel | Next.js 
-- 🔧 &nbsp; Linux | Git e GitHub | Visual Studio Code | MySQL Workbench | Postman | phpMyAdmin | Insomnia
-- 🖥 &nbsp; Photoshop | Canva | Figma
+- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | PHP | React | Lumen | SASS | Vue | Laravel | Next.js | Zod | Docker 
+- 🔧 &nbsp; Linux | Windows
 
 <br>
 
