@@ -4,7 +4,7 @@
 
 <h3>💻 Sobre mim: </h3>
 
-- 🔭 &nbsp; Atualmente, estou buscando uma nova opotunidade para voltar a atuar como desenvolvedor Front-End com React/Next.js.
+- 🔭 &nbsp; Atualmente, estou buscando uma nova opotunidade para voltar a atuar na area de tecnologia como desenvolvedor.
 - 🤔 &nbsp; Buscando sempre novos conhecimentos e buscando evoluir cada vez mais.
 - 🎓 &nbsp; Formado em Técnico em Análise em Desenvolvimento de Sistemas pela ETEC de Itaquaquecetuba em 2021.
 - 💼 &nbsp; Desenvolvedor Front-End.
