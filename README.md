@@ -1,22 +1,19 @@
-# Bem vindo ao meu GitHub, eu sou o Henrique. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> 
+<h3>📑 Sobre mim: </h3>
 
-
-
-<h3>💻 Sobre mim: </h3>
-
-- 🔭 &nbsp; Atualmente, estou buscando uma nova opotunidade para voltar a atuar na area de tecnologia como desenvolvedor.
-- 🤔 &nbsp; Buscando sempre novos conhecimentos e buscando evoluir cada vez mais.
-- 🎓 &nbsp; Formado em Técnico em Análise em Desenvolvimento de Sistemas pela ETEC de Itaquaquecetuba em 2021.
-- 💼 &nbsp; Desenvolvedor Front-End.
-- 🌱 &nbsp; Entusiasta e amante da Tecnologia e programação.
+<p>
+  Olá, meu nome é Henrique, sou um desenvolvedor Full-Stack apaixonado por tecnologia e inovação. Com experiência em diversas linguagens e frameworks, estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos inovadores e eficientes. Acredito no poder da tecnologia para transformar vidas e busco sempre estar focado em criar soluções sólidas e escaláveis. Já atuei com desenvolvimento web, mobile e backend, sempre focando na melhor usuabilidade do cliente final. Hoje, em constante evolução, sigo me colocando em ambientes de crescimento pessoal e profissional, onde posso evoluir a cada desição e olhar para cada desafio como uma oportunidade. 
+<br/><br/>#Vamos construir o futuro juntos!
+</p>
 
 
 <h3>🛠 Tecnologias</h3>
 
-- 📱 &nbsp; Ionic (angular) | React Native (básico)
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | PHP | React | Lumen | SASS | Vue | Laravel | Next.js | Zod | Docker | Vite | Lovable | Node | Express | Tailwind
 - 🛢 &nbsp; MySQL | Mongo | SQLite | Postgre
-- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | PHP | React | Lumen | SASS | Vue | Laravel | Next.js | Zod | Docker 
-- 🔧 &nbsp; Linux | Windows
+- 🔧 &nbsp; Linux | Windows | MacOS | Git | n8n | SellFlux | Digital Ocean | Cloudflare | SSH
+- 📱 &nbsp; React Native
+  
 
 <br>
 
@@ -25,6 +22,10 @@
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCardoso-Dev&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+
+<a href="https://my-website-xi-pink.vercel.app" target="_blank">
+  visite meu website 
+</a>
 
 
 <h3> 🤝🏻 Entre em contato: </h3>
