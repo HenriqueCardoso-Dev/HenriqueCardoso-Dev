@@ -1,7 +1,7 @@
 <h3>📑 Sobre mim: </h3>
 
 <p>
-  Olá, meu nome é Henrique, sou um desenvolvedor Full-Stack apaixonado por tecnologia e inovação. Com experiência em diversas linguagens e frameworks, estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos inovadores e eficientes. Acredito no poder da tecnologia para transformar vidas e busco sempre estar focado em criar soluções sólidas e escaláveis. Já atuei com desenvolvimento web, mobile e backend, sempre focando na melhor usuabilidade do cliente final. Hoje, em constante evolução, sigo me colocando em ambientes de crescimento pessoal e profissional, onde posso evoluir a cada decisão e olhar para cada desafio como uma oportunidade. 
+  Olá, meu nome é Henrique, sou um desenvolvedor Full-Stack apaixonado por tecnologia e inovação. Com experiência em diversas linguagens e frameworks, estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos inovadores e eficientes. Acredito no poder da tecnologia para transformar vidas e busco sempre estar focado em criar soluções sólidas e escaláveis. Já atuei com desenvolvimento web, mobile e backend, sempre focando na melhor usabilidade do cliente final. Hoje, em constante evolução, sigo me colocando em ambientes de crescimento pessoal e profissional, onde posso evoluir a cada decisão e olhar para cada desafio como uma oportunidade. 
 <br/><br/>#Vamos construir o futuro juntos!
 </p>
 
