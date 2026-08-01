@@ -1,36 +1,206 @@
-<h3>📑 Sobre mim: </h3>
+<div align="center">
 
-<p>
-  Olá, meu nome é Henrique, sou um desenvolvedor Full-Stack apaixonado por tecnologia e inovação. Com experiência em diversas linguagens e frameworks, estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos inovadores e eficientes. Acredito no poder da tecnologia para transformar vidas e busco sempre estar focado em criar soluções sólidas e escaláveis. Já atuei com desenvolvimento web, mobile e backend, sempre focando na melhor usabilidade do cliente final. Hoje, em constante evolução, sigo me colocando em ambientes de crescimento pessoal e profissional, onde posso evoluir a cada decisão e olhar para cada desafio como uma oportunidade. 
-<br/><br/>#Vamos construir o futuro juntos!
-</p>
+# 👋 Olá, eu sou Henrique Cardoso
 
+### Full Stack Developer • AI Engineer • SaaS Builder
 
-<h3>🛠 Tecnologias</h3>
-
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | PHP | React | Lumen | SASS | Vue | Laravel | Next.js | Zod | Docker | Vite | Lovable | Node | Express | Tailwind
-- 🛢 &nbsp; MySQL | Mongo | SQLite | Postgre
-- 🔧 &nbsp; Linux | Windows | MacOS | Git | n8n | SellFlux | Digital Ocean | Cloudflare | SSH
-- 📱 &nbsp; React Native
-  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Especialista+em+Laravel+e+React;Construindo+SaaS+escaláveis;Criando+Agentes+de+IA;Automação+%7C+Cloud+%7C+Marketing+Digital" />
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HenriqueCardoso-Dev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="HenriqueCardoso-Dev's Github Stats">
+<p>
+Construindo produtos digitais utilizando
+<b>Inteligência Artificial</b>,
+<b>Cloud</b>,
+<b>Automação</b>
+e
+<b>Desenvolvimento Full Stack</b>.
+</p>
 
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCardoso-Dev&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
-
-<a href="https://my-website-xi-pink.vercel.app" target="_blank">
-  visite meu website 
+<a href="https://my-website-xi-pink.vercel.app">
+<img src="https://img.shields.io/badge/🌎%20Website-000?style=for-the-badge">
 </a>
 
+<a href="mailto:carloshenriqueramoscardoso@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-<h3> 🤝🏻 Entre em contato: </h3>
+<a href="https://linkedin.com/in/HenriqueCardoso-Dev">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
 
-<p align="center"> 
-  &nbsp; <a href="https://www.linkedin.com/in/HenriqueCardoso-Dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-  &nbsp; <a href="mailto:carloshenriqueramoscardoso@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</div>
+
+---
+
+# 🚀 Sobre mim
+
+Sou um **Desenvolvedor Full Stack** apaixonado por transformar ideias em produtos digitais.
+
+Atualmente meu foco está na construção de:
+
+- 🤖 Agentes de Inteligência Artificial
+- 🚀 Plataformas SaaS
+- ⚡ Sistemas Web modernos
+- ☁️ Infraestrutura Cloud
+- 🔄 Automações
+- 📈 Growth e Marketing Digital
+
+Busco sempre desenvolver aplicações escaláveis, intuitivas e de alta performance, combinando tecnologia, estratégia e experiência do usuário.
+
+---
+
+# 💼 Especialidades
+
+```text
+💻 Desenvolvimento Full Stack
+🤖 Inteligência Artificial
+⚙️ Automações
+☁️ Cloud & DevOps
+🚀 SaaS
+📈 Growth Marketing
+🔎 SEO
+🎯 CRM
+🔄 CI/CD
+```
+
+---
+
+# 🧠 Tech Stack
+
+## Front-end
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vue,angular,vite"/>
+
 </p>
+
+---
+
+## Back-end
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express"/>
+
+</p>
+
+---
+
+## Banco de Dados
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres"/>
+
+</p>
+
+---
+
+## Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,docker,cloudflare,linux"/>
+
+</p>
+
+---
+
+# 🤖 AI Stack
+
+- Claude
+- ChatGPT
+- OpenAI API
+- Prompt Engineering
+- AI Agents
+- Lovable
+- SellFlux
+- n8n
+
+---
+
+# 📈 Marketing & Negócios
+
+- SEO
+- Growth Hacking
+- CRM
+- Tráfego Pago
+- Marketing Digital
+- Funis
+- Landing Pages
+- Conversão
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=HenriqueCardoso-Dev&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 💡 Atualmente estudando
+
+- Inteligência Artificial
+- Claude Code
+- Arquitetura de Software
+- Engenharia de Prompt
+- Agentes Autônomos
+- Cloudflare
+- DevOps
+- CI/CD
+
+---
+
+# 🚀 Atualmente construindo
+
+✔ Plataformas SaaS
+
+✔ Sistemas ERP
+
+✔ Integrações
+
+✔ CRM
+
+✔ Automações
+
+✔ AI Agents
+
+✔ Dashboards
+
+✔ APIs
+
+---
+
+# 📫 Vamos conversar?
+
+<div align="center">
+
+<a href="mailto:carloshenriqueramoscardoso@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/HenriqueCardoso-Dev">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://my-website-xi-pink.vercel.app">
+<img src="https://img.shields.io/badge/Website-111827?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 "Tecnologia só faz sentido quando resolve problemas reais."
+
+<img src="https://komarev.com/ghpvc/?username=HenriqueCardoso-Dev&style=for-the-badge&color=blue"/>
+
+</div>
